@@ -1,4 +1,4 @@
-# co3c14e4683a40ca1dece3e1d
+# Game score tracker
 
 Quick start:
 
